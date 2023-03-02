@@ -1,0 +1,5 @@
+.background-image{
+    -fx-background-image: url("../../Images/stage.jpg");
+    -fx-background-repeat: stretch;
+    -fx-background-size: 950 ;
+}
